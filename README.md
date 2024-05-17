@@ -34,5 +34,5 @@ The "DeFi(Empire)" project introduces an ERC20 token, "Itachi" (I), and a Vault 
 
 ## Authors
 
-- Aum Patel
-- GitHub: [https://github.com/Aum2405](https://github.com/Aum2405)
+- Krish Patel
+- GitHub: [https://github.com/Krish030805](https://github.com/Krish030805)
